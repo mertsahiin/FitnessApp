@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "KebapFitnessApp",
+    "slug": "KebapFitnessApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "KebapFitnessApp"
+}
